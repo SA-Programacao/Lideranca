@@ -1,0 +1,37 @@
+﻿Diário de Bordo 
+Turma: 303
+Equipe: Daniel, Emilly P., Pedro C., Sebastian , Tiago O  
+Tema: Sistema de Rastreamento RFID
+
+
+Diário de bordo - Equipe 05
+
+
+
+
+14/05/2024 - Nos juntamos nas equipes e começamos a planejar como poderíamos fazer a S.A, pensamos em logar no GitHub para facilitar na construção do projeto. 
+
+
+Pedro (Scrum Master) 
+Sebastian (Back End - Team Scrum)
+Tiago (Front End - Team Scrum) 
+Emilly (Responsável pelo marketing)
+Daniel (Especialista em banco de dados (Team Scrum))
+
+
+15/05/2024 - Na aula do Prof. Márcio foi passado o tema para cada equipe e uma breve explicação sobre os projetos. 
+
+
+Tema: Solução rastreamento de produtos com RFID
+
+
+RFID, sigla para “Radio Frequency Identification”, significa “identificação por radiofrequência”. Objetos que usam essa tecnologia, como o bilhete único, têm etiquetas equipadas com chips capazes de identificá-los, rastreá-los e registrar dados.
+
+
+16/05/2024 -  Separação das funções:
+* Separamos o que cada um vai fazer de acordo com a sua função;
+* Decidimos o nicho do nosso programa;
+* Começamos o diário de bordo;
+* Criação do planner, uma espécie de notas autoadesivas online;
+* Criação do repositório e conta no Github (de todos os integrantes).
+17/05/2024 -
